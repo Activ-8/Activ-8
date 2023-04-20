@@ -14,6 +14,14 @@ Azal Adeel
 Steven Geist
 :(https://github.com/geistnine)
 
+Elise McConnel
+
+Ruqayaah Sabitu
+
+Tiffany Chau
+
+Erik Stynchula 
+
 
 [For API calls:] (http://www.boredapi.com/api/activity/)
 
